@@ -187,5 +187,6 @@ window.onload = () => {
     ["addEventListener"]
     ["Export Quotes"]
     ["textContent"]
+    ["fetchQuotesFromServer"]
   
   
