@@ -188,5 +188,6 @@ window.onload = () => {
     ["Export Quotes"]
     ["textContent"]
     ["fetchQuotesFromServer"]
+    ["https://jsonplaceholder.typicode.com/posts"]
   
   
