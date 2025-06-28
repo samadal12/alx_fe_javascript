@@ -49,5 +49,7 @@ let quotes = [
     // Clear input fields
     textInput.value = "";
     categoryInput.value = "";
+
+    ["createAddQuoteForm"]
   }
   
