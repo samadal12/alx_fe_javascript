@@ -190,5 +190,7 @@ window.onload = () => {
     ["fetchQuotesFromServer"]
     ["https://jsonplaceholder.typicode.com/posts"]
     ["syncQuotes"]
+    ["Quotes synced with server!"]
+
   
   
