@@ -52,5 +52,6 @@ let quotes = [
 
     ["createAddQuoteForm"]
     ["createElement", "appendChild"]
+    ["addEventListener"]
   }
   
