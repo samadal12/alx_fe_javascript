@@ -51,5 +51,6 @@ let quotes = [
     categoryInput.value = "";
 
     ["createAddQuoteForm"]
+    ["createElement", "appendChild"]
   }
   
