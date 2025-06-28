@@ -189,5 +189,6 @@ window.onload = () => {
     ["textContent"]
     ["fetchQuotesFromServer"]
     ["https://jsonplaceholder.typicode.com/posts"]
+    ["syncQuotes"]
   
   
