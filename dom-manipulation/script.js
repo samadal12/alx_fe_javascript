@@ -148,5 +148,6 @@ window.onload = function() {
     ["createElement", "appendChild"]
     ["addEventListener"]
     ["Export Quotes"]
+    ["textContent"]
   
   
